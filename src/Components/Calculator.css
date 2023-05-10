@@ -1,0 +1,7 @@
+.calculator-button-div {
+  display: flex;
+  column-gap: 1rem;
+  justify-content: center;
+
+  /* recall that justfiy content refers to the main axis (x-axis) */
+}
